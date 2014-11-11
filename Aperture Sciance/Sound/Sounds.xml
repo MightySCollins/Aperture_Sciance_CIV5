@@ -1,13 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by ModBuddy on 11/11/2014 1:36:26 PM -->
 <GameData>
-  <!-- TODO: Add Sounds and index for background -->
   <Audio_Sounds>
-    <Row>
-      <SoundID>SND_APT_MUSIC_DOM</SoundID>
-      <Filename>GLaDOSDOM</Filename>
-      <LoadType>DynamicResident</LoadType>
-    </Row>
+      <Row>
+          <SoundID>SND_APT_MUSIC_DOM</SoundID>
+          <Filename>GLaDOSDOM</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+
+      <Row>
+          <SoundID>SND_APT_PEACE_01</SoundID>
+          <Filename>PEACE_01</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+      <Row>
+          <SoundID>SND_APT_PEACE_02</SoundID>
+          <Filename>PEACE_02</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+      <Row>
+          <SoundID>SND_APT_PEACE_03</SoundID>
+          <Filename>PEACE_03</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+      <Row>
+          <SoundID>SND_APT_PEACE_04</SoundID>
+          <Filename>PEACE_04</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+      <Row>
+          <SoundID>SND_APT_PEACE_05</SoundID>
+          <Filename>PEACE_05</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+
+      <Row>
+          <SoundID>SND_APT_EITHER_01</SoundID>
+          <Filename>EITHER_01</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+      <Row>
+          <SoundID>SND_APT_EITHER_02</SoundID>
+          <Filename>EITHER_02</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+      <Row>
+          <SoundID>SND_APT_EITHER_03</SoundID>
+          <Filename>EITHER_03</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+      <Row>
+          <SoundID>SND_APT_EITHER_04</SoundID>
+          <Filename>EITHER_04</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+      <Row>
+          <SoundID>SND_APT_EITHER_05</SoundID>
+          <Filename>EITHER_05</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+      <Row>
+          <SoundID>SND_APT_EITHER_06</SoundID>
+          <Filename>EITHER_06</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+      <Row>
+          <SoundID>SND_APT_EITHER_07</SoundID>
+          <Filename>EITHER_07</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+      <Row>
+          <SoundID>SND_APT_EITHER_08</SoundID>
+          <Filename>EITHER_08</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+      <Row>
+          <SoundID>SND_APT_EITHER_09</SoundID>
+          <Filename>EITHER_09</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+      <Row>
+          <SoundID>SND_APT_EITHER_10</SoundID>
+          <Filename>EITHER_10</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+
+      <Row>
+          <SoundID>SND_APT_WAR_1</SoundID>
+          <Filename>WAR_1</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+      <Row>
+          <SoundID>SND_APT_WAR_02</SoundID>
+          <Filename>WAR_02</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+      <Row>
+          <SoundID>SND_APT_WAR_03</SoundID>
+          <Filename>WAR_03</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+      <Row>
+          <SoundID>SND_APT_WAR_04</SoundID>
+          <Filename>WAR_04</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+      <Row>
+          <SoundID>SND_APT_WAR_05</SoundID>
+          <Filename>WAR_05</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+      <Row>
+          <SoundID>SND_APT_WAR_06</SoundID>
+          <Filename>WAR_06</Filename>
+          <LoadType>DynamicResident</LoadType>
+      </Row>
+
   </Audio_Sounds>
-  
 </GameData>

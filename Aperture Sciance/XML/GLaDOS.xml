@@ -16,8 +16,8 @@
 			<WarmongerHate>2</WarmongerHate>
 			<WorkAgainstWillingness>7</WorkAgainstWillingness>
 			<WorkWithWillingness>4</WorkWithWillingness>
-			<PortraitIndex>6</PortraitIndex>
-			<IconAtlas>LEADER_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
 		</Row>
 	</Leaders>
 	<Leader_MajorCivApproachBiases>

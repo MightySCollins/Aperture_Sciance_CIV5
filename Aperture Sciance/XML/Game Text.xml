@@ -256,6 +256,26 @@
 		<Row Tag="TXT_KEY_GLADOS_ATTACKED3">
 			<Text>You've been wrong about every single thing you've ever done, including this thing.</Text>
 		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_DOCK">
+			<Text>Borealis Drydock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_DOCK_TEXT">
+			<Text>Text</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DOCK_STRATEGY">
+			<Text>Strategy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DOCK_HELP">
+			<Text>Help</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GREAT_PERSON_CAVE_JOHNSON">
+			<Text>Cave Johnson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_RATMAN">
+			<Text>Ratman</Text>
+		</Row>
 		
 	</Language_en_US>
 </GameData>

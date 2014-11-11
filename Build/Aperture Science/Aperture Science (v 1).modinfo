@@ -23,22 +23,46 @@
   <References />
   <Blocks />
   <Files>
-    <File md5="9203406E5839137CFCF02B6D98213150" import="1">ART/CivSymbolsColorLegends128.dds</File>
-    <File md5="4CF94AE48FA48D2AEC39B17CD39BBD03" import="1">ART/CivSymbolsColorLegends214.dds</File>
-    <File md5="DBFDE9CD70B888D2D7A082FBF7705604" import="1">ART/CivSymbolsColorLegends256.dds</File>
-    <File md5="1C0FA1F48EEE3635E104ED2E048E0833" import="1">ART/CivSymbolsColorLegends32.dds</File>
-    <File md5="08809D374F50CD7B6C3BE9E82EB4E6A2" import="1">ART/CivSymbolsColorLegends45.dds</File>
-    <File md5="C24BFA835F91388314E5CB946C581466" import="1">ART/CivSymbolsColorLegends64.dds</File>
-    <File md5="7F6D2605445A5971632BF9D8CB58A9E2" import="1">ART/CivSymbolsColorLegends80.dds</File>
+    <File md5="B07E547D564630B16CF8A16C1E0C8E85" import="1">ART/CivSymbolsColorLegends128.dds</File>
+    <File md5="544109342CA35FCAFE0C604FEB86E435" import="1">ART/CivSymbolsColorLegends214.dds</File>
+    <File md5="B323F92EC3059696B3E51E9FE7B6F0D3" import="1">ART/CivSymbolsColorLegends256.dds</File>
+    <File md5="8BD6B9BE166586F9DCACB7CA377F6AAE" import="1">ART/CivSymbolsColorLegends32.dds</File>
+    <File md5="971ABC3BAAE54D220DF0C8B559E1CBA9" import="1">ART/CivSymbolsColorLegends45.dds</File>
+    <File md5="5C078296F119D4E2068CAA9DBB5AAE44" import="1">ART/CivSymbolsColorLegends64.dds</File>
+    <File md5="154B979DF196C2576DB7A7603A2B6ABB" import="1">ART/CivSymbolsColorLegends80.dds</File>
     <File md5="A5BFB1BFE40754FD8976FCF54CBA4BEB" import="0">ART/Game Art.xml</File>
     <File md5="72C8EAE06EEDA63EF6A39E204E111C64" import="1">ART/GLaDOSDOM.dds</File>
-    <File md5="EC8901CC8BD04AE076B6E4DFB9BC3DBC" import="0">Sound/GLaDOSDOM.mp3</File>
-    <File md5="8F129676217DE14F3BB9F29A5D600D52" import="0">Sound/Sounds.xml</File>
-    <File md5="48001EB57B5CE556FBE2F7FA8AD0D026" import="0">XML/Apature.xml</File>
+    <File md5="6F37F6154B02FED3C69814FDBDE3B92A" import="0">Sound/2D Sounds.xml</File>
+    <File md5="304B73ACD0DC16039F2A7AD486D67F7C" import="1">Sound/EITHER/EITHER_01.mp3</File>
+    <File md5="190FA0738187DE9EE320A10BEFBAD02B" import="1">Sound/EITHER/EITHER_02.mp3</File>
+    <File md5="79AA662EE6366AB5F75D79F5A6445D87" import="1">Sound/EITHER/EITHER_03.mp3</File>
+    <File md5="EC80A979B9DB2CF1D622B57A45DDE157" import="1">Sound/EITHER/EITHER_04.mp3</File>
+    <File md5="65CC9EA0B5A4DF4A33FAF0A164713A08" import="1">Sound/EITHER/EITHER_05.mp3</File>
+    <File md5="5ADC77D73A76AAED7F8E95BBDE42601E" import="1">Sound/EITHER/EITHER_06.mp3</File>
+    <File md5="A69947FE51EA2BF8D9FFA9CCA3B9E6C9" import="1">Sound/EITHER/EITHER_07.mp3</File>
+    <File md5="007FFF5E906333E7F78E91B3FAD6E88E" import="1">Sound/EITHER/EITHER_08.mp3</File>
+    <File md5="352FB8A6C380658C08C0E9885BC2FBAC" import="1">Sound/EITHER/EITHER_09.mp3</File>
+    <File md5="284E7085A8DF07F81FB6049170C371D0" import="1">Sound/EITHER/EITHER_10.mp3</File>
+    <File md5="EC8901CC8BD04AE076B6E4DFB9BC3DBC" import="1">Sound/GLaDOSDOM.mp3</File>
+    <File md5="06615BD79D09F12C30D669299EC6B555" import="1">Sound/PEACE/PEACE_01.mp3</File>
+    <File md5="FD215E0E51B82D2F5708C5E593BBC1FB" import="1">Sound/PEACE/PEACE_02.mp3</File>
+    <File md5="2495EF7C2DD7AC037ACCE729E15DB67F" import="1">Sound/PEACE/PEACE_03.mp3</File>
+    <File md5="556077C0841252645842387316C9CA57" import="1">Sound/PEACE/PEACE_04.mp3</File>
+    <File md5="0A2516BBDE2348A93E7FC88088319A00" import="1">Sound/PEACE/PEACE_05.mp3</File>
+    <File md5="7C9D71A97C51973E840758B9E4B4C795" import="0">Sound/Sounds.xml</File>
+    <File md5="5208C9425CCD882F0CE0DD7496ED5F60" import="1">Sound/WAR/WAR_01.mp3</File>
+    <File md5="A1D244397B5753BBCDA1F05972551C2E" import="1">Sound/WAR/WAR_02.mp3</File>
+    <File md5="EC0A954631417BDD0DE9DF16C2066F01" import="1">Sound/WAR/WAR_03.mp3</File>
+    <File md5="E717FA1462A317F04D76701F5B2D99DF" import="1">Sound/WAR/WAR_04.mp3</File>
+    <File md5="6D9D4842C1362CB3B39F6E369A29FC04" import="1">Sound/WAR/WAR_05.mp3</File>
+    <File md5="2AD139953F24E1A9A1C37545D10379E3" import="1">Sound/WAR/WAR_06.mp3</File>
+    <File md5="AC9A9636E38913ABD2A421F18D366FCF" import="1">Sound/WAR/WAR_07.mp3</File>
+    <File md5="31751D107C2FD424BFAD4589870086A5" import="0">XML/Apature.xml</File>
+    <File md5="2CC367782293BAC1A2BAE3DB17E4AF17" import="0">XML/Game Buildings.xml</File>
     <File md5="93F0B5BFE832F62B24C5BB6A20EBA8E3" import="0">XML/Game Traits.xml</File>
-    <File md5="9104A7CE44CF719F0425D0F4CD2934E5" import="0">XML/Game Units.xml</File>
-    <File md5="B94F04611461962E91E69E63256A8CE1" import="0">XML/GLaDOS.xml</File>
-    <File md5="6A08DB3BC9740FEE8F261D20133D74E1" import="1">XML/Game Text.xml</File>
+    <File md5="9CA55C5DE1E0732D16B86E48507F56E7" import="0">XML/Game Units.xml</File>
+    <File md5="8E326CA4AA52478408ADC3D9C5820C7A" import="0">XML/GLaDOS.xml</File>
+    <File md5="24D1DAE33D5969ADF98347817BB44EC6" import="1">XML/Game Text.xml</File>
   </Files>
   <Actions>
     <OnModActivated>
@@ -49,6 +73,7 @@
       <UpdateDatabase>XML/Game Traits.xml</UpdateDatabase>
       <UpdateDatabase>XML/Game Units.xml</UpdateDatabase>
       <UpdateDatabase>Sound/Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Game Buildings.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
 </Mod>

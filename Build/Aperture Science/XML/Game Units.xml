@@ -3,12 +3,13 @@
 <GameData>
 	<Units>
 		<Row>
-			<Class>UNITCLASS_TURRET</Class>
+			<Class>UNITCLASS_CROSSBOWMAN</Class>
 			<Type>UNIT_TURRET</Type>
 			<PrereqTech>TECH_MACHINERY</PrereqTech>
 			<Combat>5</Combat>
 			<RangedCombat>5</RangedCombat>
 			<Cost>30</Cost>
+			<FaithCost>65</FaithCost>
 			<Moves>1</Moves>
 			<Range>2</Range>
 			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
@@ -28,8 +29,10 @@
 			<XPValueDefense>3</XPValueDefense>
 			<UnitArtInfo>ART_DEF_UNIT_CROSSBOWMAN</UnitArtInfo>
 			<UnitFlagIconOffset>29</UnitFlagIconOffset>
-			<IconAtlas>UNIT_ATLAS_1</IconAtlas>
-			<PortraitIndex>30</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
+			<MoveRate>ARTILLERY</MoveRate>
+
 		</Row>
 	</Units>
 	<Unit_FreePromotions>
