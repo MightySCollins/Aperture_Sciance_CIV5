@@ -14,8 +14,8 @@ Global
 		{DDEAAA78-7492-446A-872D-441CA844409A}.Default|x86.Build.0 = Default|x86
 		{DDEAAA78-7492-446A-872D-441CA844409A}.Deploy Only|x86.ActiveCfg = Deploy Only|x86
 		{DDEAAA78-7492-446A-872D-441CA844409A}.Deploy Only|x86.Build.0 = Deploy Only|x86
-		{DDEAAA78-7492-446A-872D-441CA844409A}.Package Only|x86.ActiveCfg = Package Only|x86
-		{DDEAAA78-7492-446A-872D-441CA844409A}.Package Only|x86.Build.0 = Package Only|x86
+		{DDEAAA78-7492-446A-872D-441CA844409A}.Package Only|x86.ActiveCfg = Deploy Only|x86
+		{DDEAAA78-7492-446A-872D-441CA844409A}.Package Only|x86.Build.0 = Deploy Only|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

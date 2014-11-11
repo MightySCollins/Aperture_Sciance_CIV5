@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
     <ProjectGuid>{ddeaaa78-7492-446a-872d-441ca844409a}</ProjectGuid>
-    <Name>Aperture Sciance</Name>
+    <Name>Aperture Science</Name>
     <Guid>b3279720-4870-44fc-8b07-0ea5fdcc7e9f</Guid>
     <ModVersion>1</ModVersion>
     <Stability>Experimental</Stability>
@@ -20,7 +20,7 @@
     <AssemblyName>Aperture Sciance</AssemblyName>
     <RootNamespace>Aperture Sciance</RootNamespace>
     <ModReferences />
-    <ReloadUnitSystem>false</ReloadUnitSystem>
+    <ReloadUnitSystem>true</ReloadUnitSystem>
     <ModActions>
       <Action>
         <Set>OnModActivated</Set>
@@ -52,8 +52,14 @@
         <Type>UpdateDatabase</Type>
         <FileName>XML/Game Units.xml</FileName>
       </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>Sound/Sounds.xml</FileName>
+      </Action>
     </ModActions>
     <HideSetupGame>false</HideSetupGame>
+    <ReloadAudioSystem>true</ReloadAudioSystem>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
@@ -68,6 +74,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="ART" />
+    <Folder Include="Sound" />
     <Folder Include="XML" />
   </ItemGroup>
   <ItemGroup>
@@ -106,6 +113,14 @@
     <Content Include="ART\GLaDOSDOM.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Sound\GLaDOSDOM.mp3">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="Sound\Sounds.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
     <Content Include="XML\Apature.xml">
       <SubType>Lua</SubType>

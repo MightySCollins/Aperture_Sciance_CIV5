@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/8/2014 7:56:12 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_APT</Type>
+			<Description>TXT_KEY_TRAIT_APT</Description>
+			<ShortDescription>TXT_KEY_TRAIT_APT_SHORT</ShortDescription>
+			<GreatScientistRateModifier>50</GreatScientistRateModifier>
+			<CityUnhappinessModifier>+50</CityUnhappinessModifier>
+			<TechBoostFromCapitalScienceBuildings>+50</TechBoostFromCapitalScienceBuildings>
+		</Row>
+	</Traits>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_APT_1</Type>
+			<Description>TXT_KEY_PROMOTION_APT_1</Description>
+			<Help>TXT_KEY_PROMOTION_APT_1_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<InstaHeal>true</InstaHeal>
+			<OrderPriority>1</OrderPriority>
+			<PortraitIndex>52</PortraitIndex>
+			<RangedAttackModifier>+50</RangedAttackModifier>
+			<MovesChange>2</MovesChange>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_RANGED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_PEDIA_APT_1</PediaEntry>
+		</Row>
+	</UnitPromotions>
+
+	<Trait_FreePromotionUnitCombats>
+		<Row>
+			<TraitType>TRAIT_APT</TraitType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+			<PromotionType>PROMOTION_APT_1</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats>
+
+</GameData>

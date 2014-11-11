@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/8/2014 2:58:35 PM -->
+<GameData>
+	<Language_en_US>
+
+		<Row Tag="TXT_KEY_CITY_NAME_TURRET">
+			<Text>Turret Control</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUSPEND">
+			<Text>Suspension Room</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NEURO">
+			<Text>Neurotoxin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FAC">
+			<Text>Science Facility</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_APT_ADJECTIVE">
+			<Text>Aperturian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_APT_DESC">
+			<Text>Aperture Science</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_APT_SHORT_DESC">
+			<Text>Aperture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_APT_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_APT_TEXT_1">
+			<Text>
+				ADD TEXT
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GLADOS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GLADOS_TEXT_1">
+			<Text>
+				GLaDOS (Genetic Lifeform and Disk Operating System) is a fictional artificially intelligent computer system who  is responsible for testing
+				and maintenance in Aperture Science research facility.[NEWLINE][NEWLINE]It is believed that the GLaDOS project was used in 1982, where
+				version 1.07, and later 1.07a and 1.09, operated Aperture Science's Enrichment Center Test Subject Application Process. Aperture also started
+				using a bulletin board system in 1973, which was later managed by GLaDOS as late as 1997.[NEWLINE][NEWLINE]In 1986, construction of the first
+				iteration of GLaDOS began in the Enrichment Center with the aim of accelerating the Portal project, and beating their rival company, Black Mesa.
+				A prototype chassis for GLaDOS was constructed in 1989, but was subsequently abandoned. In 1996, after a decade spent bringing the Disk Operating
+				System parts to a state of more or less basic functionality, work began on the Genetic Lifeform component.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GLADOS_LIVED">
+			<Text>1998 - ???</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GLADOS_NAME">
+			<Text>GLaDOS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GLADOS_SUBTITLE">
+			<Text>Genetic Lifeform and Disk Operating System</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GLADOS">
+			<Text>GLaDOS</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_TURRET">
+			<Text>Sentry Turret</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TURRET">
+			<Text>The Turret is cheap but defective.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_TURRET_TEXT">
+			<Text>
+				Sentry Turrets are miniature tripod robots that can open each side of their chassis (their 'arms') horizontally in order to reveal two gatling guns.
+				The central part of the chassis holds their red eye, which emits a targeting laser. Almost all of the space within the Turret is devoted to storing the
+				ridiculously stacked ammo, explaining the nearly infinite supply of ammo when firing.[NEWLINE][NEWLINE]When enemy's are out of sight from the Turret's presence,
+				they will maintain a standby state and will remain motionless with their guns retracted. Moving into their angle of sight however, will cause Turrets to
+				deploy their guns shortly after greeting the unlucky individual before opening fire. They will continue to fire until the target is dead or moves away.
+				If the latter occurs, Turrets will briefly search for the test subject (as indicated by the movement of the targeting laser), after which they will revert
+				to a standby state.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TURRET_STRATEGY">
+			<Text>Use Turrets only as a last resort, they are cheap but ultimatly useless</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_SPY_NAME_APT_0">
+			<Text>Chell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_APT_1">
+			<Text>Doug Rattmann</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_APT_2">
+			<Text>Cave Johnson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_APT_3">
+			<Text>Caroline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_APT_4">
+			<Text>Wheatley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_APT_5">
+			<Text>ATLAS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_APT_6">
+			<Text>P-body</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TRAIT_APT">
+			<Text>Less happiness but more Science for buildings and chances of great scientists.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_APT_SHORT">
+			<Text>Science Initiative</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_APT_1">
+			<Text>Effective Turret</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_APT_1_HELP">
+			<Text>Increases movement, Heals and improves Bullets</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_PEDIA_APT_1">
+			<Text>Add text</Text>
+		</Row>
+		
+	</Language_en_US>
+</GameData>

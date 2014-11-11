@@ -13,16 +13,16 @@
 			<Text>Neurotoxin</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_FAC">
-			<Text>Sciance Facility</Text>
+			<Text>Science Facility</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV_APT_ADJECTIVE">
 			<Text>Aperturian</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV_APT_DESC">
-			<Text>Apature Sciance</Text>
+			<Text>Aperture Science</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV_APT_SHORT_DESC">
-			<Text>Apature</Text>
+			<Text>Aperture</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CIV5_APT_HEADING_1">
 			<Text>History</Text>
@@ -38,7 +38,7 @@
 		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GLADOS_TEXT_1">
 			<Text>
 				GLaDOS (Genetic Lifeform and Disk Operating System) is a fictional artificially intelligent computer system who  is responsible for testing
-				and maintenance in Aperture Science research facility.[NEWLINE][NEWLINE}It is believed that the GLaDOS project was used in 1982, where
+				and maintenance in Aperture Science research facility.[NEWLINE][NEWLINE]It is believed that the GLaDOS project was used in 1982, where
 				version 1.07, and later 1.07a and 1.09, operated Aperture Science's Enrichment Center Test Subject Application Process. Aperture also started
 				using a bulletin board system in 1973, which was later managed by GLaDOS as late as 1997.[NEWLINE][NEWLINE]In 1986, construction of the first
 				iteration of GLaDOS began in the Enrichment Center with the aim of accelerating the Portal project, and beating their rival company, Black Mesa.
@@ -69,7 +69,7 @@
 			<Text>
 				Sentry Turrets are miniature tripod robots that can open each side of their chassis (their 'arms') horizontally in order to reveal two gatling guns.
 				The central part of the chassis holds their red eye, which emits a targeting laser. Almost all of the space within the Turret is devoted to storing the
-				ridiculously stacked ammo, explaining the nearly infinite supply of ammo when firing.[NEWLINE][NEWLINE]When enemys are out of sight from the Turret's presence,
+				ridiculously stacked ammo, explaining the nearly infinite supply of ammo when firing.[NEWLINE][NEWLINE]When enemy's are out of sight from the Turret's presence,
 				they will maintain a standby state and will remain motionless with their guns retracted. Moving into their angle of sight however, will cause Turrets to
 				deploy their guns shortly after greeting the unlucky individual before opening fire. They will continue to fire until the target is dead or moves away.
 				If the latter occurs, Turrets will briefly search for the test subject (as indicated by the movement of the targeting laser), after which they will revert
@@ -112,11 +112,149 @@
 			<Text>Effective Turret</Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROMOTION_APT_1_HELP">
-			<Text>Increases movment, Heals and improves Bullets</Text>
+			<Text>Increases movement, Heals and improves Bullets</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_PROMOTION_PEDIA_APT_1">
 			<Text>Add text</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GLADOS_AGREE_SHORT_1">
+			<Text>Probably.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_AGREE_SHORT_2">
+			<Text>Yes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_AGREE_SHORT_3">
+			<Text>Yes, thanks. We get it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_AGREE_SHORT_4">
+			<Text>I'm done.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_AGREE_SHORT_5">
+			<Text>Good.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_DISAGREE_SHORT_1">
+			<Text>File Deleted.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_DISAGREE_SHORT_2">
+			<Text>Not so fast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_DISAGREE_SHORT_3">
+			<Text>Nonononononono!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_DISAGREE_SHORT_4">
+			<Text>Oh, you are kidding me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_GOODBYE_SHORT_1">
+			<Text>Goodbye.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_FIRSTGREETING1">
+			<Text>Cake, and grief counseling, will be available at the conclusion of the test.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_FIRSTGREETING2">
+			<Text>Hello, and, again, welcome to the Aperture Science Computer-Aided Enrichment Center.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_FIRSTGREETING3">
+			<Text>For your own safety and the safety of others, please refrain from-- [bzzzzzt]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_DEFEATED1">
+			<Text>This isn't brave. It's murder. What did I ever do to you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_DEFEATED2">
+			<Text>While you're dying, I'll be still alive! And when you're dead, I will be still alive! Still Alive! Still Alive...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_DEFEATED3">
+			<Text>The difference between us is that I can feel pain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_EXPANSION_SERIOUS_WARNING1">
+			<Text>Look: we're both stuck in this place. I'll use lasers to inscribe a line down the center of the facility, and one half will be where you live, and I'll live
+				in the other half. We won't have to try to kill each other or even talk if we don't feel like it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_GREETING_HOSTILE_HELLO1">
+			<Text>You're not smart. You're not a scientist. You're not a doctor. You're not even a full-time employee. Where did your life go so wrong?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_GREETING_HOSTILE_HELLO2">
+			<Text>I think we can put our differences behind us... for science... you monster.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_GREETING_HOSTILE_HELLO3">
+			<Text>Did you know that people with guilty consciences are more easily startled by loud noises-[train horn] I'm sorry, I don't know why that went off.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_GREETING_NEUTRAL_HELLO1">
+			<Text>You are not a good person. You know that, right? Good people don't get up here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_GREETING_NEUTRAL_HELLO2">
+			<Text>As part of a required Enrichment Center protocol, the previous statement that we would not monitor the test area was a complete fabrication. We will stop
+				enhancing the truth in three... two... *zzzt*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_GREETING_POLITE_HELLO1">
+			<Text>Momentum, a function of mass and velocity, is conserved between portals. In layman's terms, speedy thing goes in, speedy thing comes out.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_GREETING_POLITE_HELLO2">
+			<Text>It's been a long time. How have you been?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_HOSTILE_AGGRESSIVE_MILITARY_WARNING1">
+			<Text>This is your fault. It didn't have to be like this. I'm not kidding, now! Turn back, or I *will* kill you! I'm going to kill you, and all the cake is gone! You
+				don't even care, do you? This is your last chance!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_HOSTILE_AGGRESSIVE_MILITARY_WARNING2">
+			<Text>What's your point, anyway? Survival? Well then, the last thing you want to do is hurt me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_LUXURY_TRADE1">
+			<Text>Let's be honest. Neither one of us knows what that thing does. Just put it in the corner and I'll deal with it later.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_OPEN_BORDERS_EXCHANGE1">
+			<Text>Do you think I'm trying to trick you with reverse psychology? I mean, seriously, now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_RESPONSE_REQUEST1">
+			<Text>Oh, that's sad. But impressive. Maybe they worked at the phone company.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_WARBLUFF1">
+			<Text>Look at you, soaring through the air like an eagle... piloting a blimp.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_WARBLUFF2">
+			<Text>Good job on that, by the way. [back to computer voice] Sarcasm sphere self-test complete.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_WARBLUFF3">
+			<Text>You've been wrong about every single thing you've ever done, including this thing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_WARBLUFF4">
+			<Text>When I said deadly neurotoxin, the 'deadly' was in massive sarcasm quotes. I could take a bath in the stuff, put it on cereal, rub it right into my eyes. Honestly,
+				it's not deadly at all. To me... You, on the other hand, are going to find its deadliness a lot less funny.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_WARBLUFF5">
+			<Text>'Shall not be mourned.' That's exactly what it says. Very formal. Very official.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_WINWAR1">
+			<Text>The Enrichment Center is required to remind you that you will be baked, and then there will be cake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_WINWAR2">
+			<Text>Thank you for participating in this Aperture Science computer-aided enrichment activity. Goodbye.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_LOSEWAR1">
+			<Text>I have an infinite capacity for knowledge, and even I'm not sure what's going on outside. All I know is I'm the only thing standing between us and them. Well, I was.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_LOSEWAR2">
+			<Text>Didn't we have some fun, though? Remember when the platform was sliding into the fire pit and I said "Goodbye", and you were like, [deep voice] "No way!" And then I
+				was all, "We pretended we were going to murder you." That was great.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_DECLAREWAR1">
+			<Text>Your entire life has been a mathematical error... a mathematical error I'm about to correct!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_DECLAREWAR2">
+			<Text>This is your fault. I'm going to kill you. And all the cake is gone. You don't even care, do you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_DECLAREWAR3">
+			<Text>I've been thinking about our dilemma and I believe I've come up with a solution that works out best for one of both of us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_ATTACKED1">
+			<Text>Oh, you think you're doing some damage? Two plus two is [static] … ten. In base four! I'm fine!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_ATTACKED2">
+			<Text>You're not smart. You're not a scientist. You're not a doctor. You're not even a full-time employee. Where did your life go so wrong?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GLADOS_ATTACKED3">
+			<Text>You've been wrong about every single thing you've ever done, including this thing.</Text>
 		</Row>
 		
 	</Language_en_US>
