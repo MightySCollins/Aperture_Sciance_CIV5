@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b3279720-4870-44fc-8b07-0ea5fdcc7e9f" version="1">
+  <Properties>
+    <Name>Aperture Sciance</Name>
+    <Stability>Experimental</Stability>
+    <Teaser>Run the world like Cave Johnson wanted to with the help of GLaDOS</Teaser>
+    <Description>Run the world like Cave Johnson wanted to and work as GLaDOS to take over the world.</Description>
+    <Authors>Sam (SCollins)</Authors>
+    <SpecialThanks>Alex</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="9203406E5839137CFCF02B6D98213150" import="1">ART/CivSymbolsColorLegends128.dds</File>
+    <File md5="4CF94AE48FA48D2AEC39B17CD39BBD03" import="1">ART/CivSymbolsColorLegends214.dds</File>
+    <File md5="DBFDE9CD70B888D2D7A082FBF7705604" import="1">ART/CivSymbolsColorLegends256.dds</File>
+    <File md5="1C0FA1F48EEE3635E104ED2E048E0833" import="1">ART/CivSymbolsColorLegends32.dds</File>
+    <File md5="08809D374F50CD7B6C3BE9E82EB4E6A2" import="1">ART/CivSymbolsColorLegends45.dds</File>
+    <File md5="C24BFA835F91388314E5CB946C581466" import="1">ART/CivSymbolsColorLegends64.dds</File>
+    <File md5="7F6D2605445A5971632BF9D8CB58A9E2" import="1">ART/CivSymbolsColorLegends80.dds</File>
+    <File md5="A5BFB1BFE40754FD8976FCF54CBA4BEB" import="0">ART/Game Art.xml</File>
+    <File md5="72C8EAE06EEDA63EF6A39E204E111C64" import="1">ART/GLaDOSDOM.dds</File>
+    <File md5="22C2CBED6E0997A133BACBCE3CA59224" import="0">XML/Apature.xml</File>
+    <File md5="93F0B5BFE832F62B24C5BB6A20EBA8E3" import="0">XML/Game Traits.xml</File>
+    <File md5="9104A7CE44CF719F0425D0F4CD2934E5" import="0">XML/Game Units.xml</File>
+    <File md5="B94F04611461962E91E69E63256A8CE1" import="0">XML/GLaDOS.xml</File>
+    <File md5="6F4C0F840B0FEFE6BCC9F5510DA75862" import="1">XML/Game Text.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Apature.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Game Text.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GLaDOS.xml</UpdateDatabase>
+      <UpdateDatabase>ART/Game Art.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Game Traits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Game Units.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

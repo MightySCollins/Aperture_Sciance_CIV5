@@ -1,0 +1,7 @@
+# Intellij
+.idea/
+
+# Sounds
+Aperture Sciance/Sound/Either/*
+Aperture Sciance/Sound/War/*
+Aperture Sciance/Sound/Peace/*
