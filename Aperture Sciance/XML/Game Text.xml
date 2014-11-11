@@ -153,7 +153,7 @@
 			<Text>Cake, and grief counseling, will be available at the conclusion of the test.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GLADOS_FIRSTGREETING2">
-			<Text>Hello, and, again, welcome to the Aperture Science Computer-Aided Enrichment Center.</Text>
+			<Text>Well, you found me. Congratulations. Was it worth it?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GLADOS_FIRSTGREETING3">
 			<Text>For your own safety and the safety of others, please refrain from-- [bzzzzzt]</Text>
@@ -188,7 +188,7 @@
 				enhancing the truth in three... two... *zzzt*</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GLADOS_GREETING_POLITE_HELLO1">
-			<Text>Momentum, a function of mass and velocity, is conserved between portals. In layman's terms, speedy thing goes in, speedy thing comes out.</Text>
+			<Text>Hello, and, again, welcome to the Aperture Science Computer-Aided Enrichment Center.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GLADOS_GREETING_POLITE_HELLO2">
 			<Text>It's been a long time. How have you been?</Text>
@@ -226,7 +226,7 @@
 			<Text>'Shall not be mourned.' That's exactly what it says. Very formal. Very official.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GLADOS_WINWAR1">
-			<Text>The Enrichment Center is required to remind you that you will be baked, and then there will be cake.</Text>
+			<Text>There was even going to be a party for you. A big party, that all your friends were invited to.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GLADOS_WINWAR2">
 			<Text>Thank you for participating in this Aperture Science computer-aided enrichment activity. Goodbye.</Text>
@@ -248,10 +248,10 @@
 			<Text>I've been thinking about our dilemma and I believe I've come up with a solution that works out best for one of both of us.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GLADOS_ATTACKED1">
-			<Text>Oh, you think you're doing some damage? Two plus two is [static] … ten. In base four! I'm fine!</Text>
+			<Text>Here come the test results: "You are a horrible person." That's what it says: a horrible person. We weren't even testing for that.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GLADOS_ATTACKED2">
-			<Text>You're not smart. You're not a scientist. You're not a doctor. You're not even a full-time employee. Where did your life go so wrong?</Text>
+			<Text>The Enrichment Center is required to remind you that you will be baked, and then there will be cake.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GLADOS_ATTACKED3">
 			<Text>You've been wrong about every single thing you've ever done, including this thing.</Text>
