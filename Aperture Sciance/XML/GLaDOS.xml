@@ -34,7 +34,7 @@
 		<Row>
 			<LeaderType>LEADER_GLADOS</LeaderType>
 			<MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
-			<Bias>4</Bias>
+			<Bias>12</Bias>
 		</Row>
 		<Row>
 			<LeaderType>LEADER_GLADOS</LeaderType>
@@ -216,10 +216,109 @@
 			<Flavor>6</Flavor>
 		</Row>
 	</Leader_Flavors>
+
 	<Leader_Traits>
 		<Row>
 			<LeaderType>LEADER_GLADOS</LeaderType>
-			<TraitType>TRAIT_IGNORE_TERRAIN_IN_FOREST</TraitType>
+			<TraitType>TRAIT_APT</TraitType>
 		</Row>
 	</Leader_Traits>
+	<Traits>
+		<Row>
+			<Type>TRAIT_APT</Type>
+			<Description>TXT_KEY_TRAIT_APT</Description>
+			<ShortDescription>TXT_KEY_TRAIT_APT_SHORT</ShortDescription>
+			<PopulationUnhappinessModifier>125</PopulationUnhappinessModifier>
+		</Row>
+	</Traits>
+	<Trait_YieldModifiers>
+		<Row>
+			<TraitType>TRAIT_APT</TraitType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>125</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_APT</TraitType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>-75</Yield>
+		</Row>
+	</Trait_YieldModifiers>
+	<Diplomacy_Responses>
+		<Row>
+			<LeaderType>LEADER_GLADOS</LeaderType>
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_GLADOS_FIRSTGREETING%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GLADOS</LeaderType>
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_GLADOS_DEFEATED%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GLADOS</LeaderType>
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_GLADOS_GREETING_POLITE_HELLO%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GLADOS</LeaderType>
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_GLADOS_GREETING_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GLADOS</LeaderType>
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_GLADOS_GREETING_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GLADOS</LeaderType>
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_GLADOS_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GLADOS</LeaderType>
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_GLADOS_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GLADOS</LeaderType>
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_GLADOS_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GLADOS</LeaderType>
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_GLADOS_LUXURY_TRADE%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GLADOS</LeaderType>
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_GLADOS_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GLADOS</LeaderType>
+			<ResponseType>RESPONSE_WARBLUFF</ResponseType>
+			<Response>TXT_KEY_GLADOS_WARBLUFF%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GLADOS</LeaderType>
+			<ResponseType>RESPONSE_WINWAR</ResponseType>
+			<Response>TXT_KEY_GLADOS_WINWAR%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GLADOS</LeaderType>
+			<ResponseType>RESPONSE_LOSEWAR</ResponseType>
+			<Response>TXT_KEY_GLADOS_LOSEWAR%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GLADOS</LeaderType>
+			<ResponseType>RESPONSE_DECLAREWAR</ResponseType>
+			<Response>TXT_KEY_GLADOS_DECLAREWAR%</Response>
+		</Row>
+		<Row>
+			<LeaderType>LEADER_GLADOS</LeaderType>
+			<ResponseType>RESPONSE_ATTACKED</ResponseType>
+			<Response>TXT_KEY_GLADOS_ATTACKED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+
 </GameData>

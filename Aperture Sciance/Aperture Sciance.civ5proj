@@ -7,7 +7,7 @@
     <Guid>b3279720-4870-44fc-8b07-0ea5fdcc7e9f</Guid>
     <ModVersion>1</ModVersion>
     <Stability>Experimental</Stability>
-    <Teaser>Run the world like Cave Johnson wanted to with the help of GLaDOS</Teaser>
+    <Teaser>Run the world like Cave Johnson wanted to with the help of GLaDOS and an army of Turrets</Teaser>
     <Description>Run the world like Cave Johnson wanted to and work as GLaDOS to take over the world.</Description>
     <Authors>Sam (SCollins)</Authors>
     <SpecialThanks>Alex</SpecialThanks>
@@ -61,6 +61,11 @@
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
         <FileName>XML/Game Buildings.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>Sound/2D Sounds.xml</FileName>
       </Action>
     </ModActions>
     <HideSetupGame>false</HideSetupGame>

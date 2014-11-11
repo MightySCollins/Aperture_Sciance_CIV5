@@ -60,7 +60,7 @@
 		</Row>
 		
 		<Row Tag="TXT_KEY_UNIT_TURRET">
-			<Text>Sentry Turret</Text>
+			<Text>Turret</Text>
 		</Row>
 		<Row Tag="TXT_KEY_UNIT_HELP_TURRET">
 			<Text>The Turret is cheap but defective.</Text>

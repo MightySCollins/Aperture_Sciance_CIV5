@@ -3,7 +3,7 @@
   <Properties>
     <Name>Aperture Science</Name>
     <Stability>Experimental</Stability>
-    <Teaser>Run the world like Cave Johnson wanted to with the help of GLaDOS</Teaser>
+    <Teaser>Run the world like Cave Johnson wanted to with the help of GLaDOS and an army of Turrets</Teaser>
     <Description>Run the world like Cave Johnson wanted to and work as GLaDOS to take over the world.</Description>
     <Authors>Sam (SCollins)</Authors>
     <SpecialThanks>Alex</SpecialThanks>
@@ -32,7 +32,7 @@
     <File md5="154B979DF196C2576DB7A7603A2B6ABB" import="1">ART/CivSymbolsColorLegends80.dds</File>
     <File md5="A5BFB1BFE40754FD8976FCF54CBA4BEB" import="0">ART/Game Art.xml</File>
     <File md5="72C8EAE06EEDA63EF6A39E204E111C64" import="1">ART/GLaDOSDOM.dds</File>
-    <File md5="6F37F6154B02FED3C69814FDBDE3B92A" import="0">Sound/2D Sounds.xml</File>
+    <File md5="31F828B96EF6FC7F2A487C2B3AA2D9DC" import="0">Sound/2D Sounds.xml</File>
     <File md5="304B73ACD0DC16039F2A7AD486D67F7C" import="1">Sound/EITHER/EITHER_01.mp3</File>
     <File md5="190FA0738187DE9EE320A10BEFBAD02B" import="1">Sound/EITHER/EITHER_02.mp3</File>
     <File md5="79AA662EE6366AB5F75D79F5A6445D87" import="1">Sound/EITHER/EITHER_03.mp3</File>
@@ -62,7 +62,7 @@
     <File md5="93F0B5BFE832F62B24C5BB6A20EBA8E3" import="0">XML/Game Traits.xml</File>
     <File md5="9CA55C5DE1E0732D16B86E48507F56E7" import="0">XML/Game Units.xml</File>
     <File md5="8E326CA4AA52478408ADC3D9C5820C7A" import="0">XML/GLaDOS.xml</File>
-    <File md5="24D1DAE33D5969ADF98347817BB44EC6" import="1">XML/Game Text.xml</File>
+    <File md5="BD37D993A6DB055248A703995BB730BB" import="1">XML/Game Text.xml</File>
   </Files>
   <Actions>
     <OnModActivated>
@@ -74,6 +74,7 @@
       <UpdateDatabase>XML/Game Units.xml</UpdateDatabase>
       <UpdateDatabase>Sound/Sounds.xml</UpdateDatabase>
       <UpdateDatabase>XML/Game Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Sound/2D Sounds.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
 </Mod>
