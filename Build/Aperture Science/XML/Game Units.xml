@@ -11,12 +11,12 @@
 			<Cost>30</Cost>
 			<FaithCost>65</FaithCost>
 			<Moves>1</Moves>
-			<Range>2</Range>
+			<Range>1</Range>
 			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
 			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
 			<Description>TXT_KEY_UNIT_TURRET</Description>
-			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_TURRET_TEXT</Civilopedia>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_TURRET_TEXT</Civilopedia>
 			<Strategy>TXT_KEY_UNIT_TURRET_STRATEGY</Strategy>
 			<Help>TXT_KEY_UNIT_HELP_TURRET</Help>
 			<MilitarySupport>true</MilitarySupport>
@@ -32,9 +32,10 @@
 			<IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
 			<PortraitIndex>1</PortraitIndex>
 			<MoveRate>ARTILLERY</MoveRate>
-
+			<Mechanized>true</Mechanized>
 		</Row>
 	</Units>
+
 	<Unit_FreePromotions>
 		<Row>
 			<UnitType>UNIT_TURRET</UnitType>
@@ -55,21 +56,22 @@
 			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
 		</Row>
 	</Unit_AITypes>
+
 	<Unit_Flavors>
 		<Row>
-			<UnitType>UNIT_TURRET_WARRIOR</UnitType>
+			<UnitType>UNIT_TURRET</UnitType>
 			<FlavorType>FLAVOR_RECON</FlavorType>
-			<Flavor>1</Flavor>
+			<Flavor>2</Flavor>
 		</Row>
 		<Row>
-			<UnitType>UNIT_TURRET_WARRIOR</UnitType>
+			<UnitType>UNIT_TURRET</UnitType>
 			<FlavorType>FLAVOR_OFFENSE</FlavorType>
-			<Flavor>2</Flavor>
+			<Flavor>3</Flavor>
 		</Row>
 		<Row>
-			<UnitType>UNIT_TURRET_WARRIOR</UnitType>
+			<UnitType>UNIT_TURRET</UnitType>
 			<FlavorType>FLAVOR_DEFENSE</FlavorType>
-			<Flavor>2</Flavor>
+			<Flavor>18</Flavor>
 		</Row>
 	</Unit_Flavors>
   

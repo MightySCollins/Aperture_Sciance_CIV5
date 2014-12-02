@@ -59,10 +59,9 @@
     <File md5="AC9A9636E38913ABD2A421F18D366FCF" import="1">Sound/WAR/WAR_07.mp3</File>
     <File md5="31751D107C2FD424BFAD4589870086A5" import="0">XML/Apature.xml</File>
     <File md5="2CC367782293BAC1A2BAE3DB17E4AF17" import="0">XML/Game Buildings.xml</File>
-    <File md5="93F0B5BFE832F62B24C5BB6A20EBA8E3" import="0">XML/Game Traits.xml</File>
-    <File md5="9CA55C5DE1E0732D16B86E48507F56E7" import="0">XML/Game Units.xml</File>
-    <File md5="8E326CA4AA52478408ADC3D9C5820C7A" import="0">XML/GLaDOS.xml</File>
-    <File md5="BD37D993A6DB055248A703995BB730BB" import="1">XML/Game Text.xml</File>
+    <File md5="BC2E9914CAB995F03449F7BDB8767564" import="0">XML/Game Units.xml</File>
+    <File md5="2313C3F1EA571CC4FF2D67ED0ECC0AE2" import="0">XML/GLaDOS.xml</File>
+    <File md5="6600E3D468A8C545895E92FA04437B1D" import="1">XML/Game Text.xml</File>
   </Files>
   <Actions>
     <OnModActivated>
@@ -70,7 +69,6 @@
       <UpdateDatabase>XML/Game Text.xml</UpdateDatabase>
       <UpdateDatabase>XML/GLaDOS.xml</UpdateDatabase>
       <UpdateDatabase>ART/Game Art.xml</UpdateDatabase>
-      <UpdateDatabase>XML/Game Traits.xml</UpdateDatabase>
       <UpdateDatabase>XML/Game Units.xml</UpdateDatabase>
       <UpdateDatabase>Sound/Sounds.xml</UpdateDatabase>
       <UpdateDatabase>XML/Game Buildings.xml</UpdateDatabase>

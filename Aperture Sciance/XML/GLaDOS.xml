@@ -243,6 +243,32 @@
 			<Yield>-75</Yield>
 		</Row>
 	</Trait_YieldModifiers>
+
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_APT_1</Type>
+			<Description>TXT_KEY_PROMOTION_APT_1</Description>
+			<Help>TXT_KEY_PROMOTION_APT_1_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<InstaHeal>true</InstaHeal>
+			<OrderPriority>1</OrderPriority>
+			<PortraitIndex>52</PortraitIndex>
+			<RangedAttackModifier>+50</RangedAttackModifier>
+			<MovesChange>2</MovesChange>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_RANGED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_PEDIA_APT_1</PediaEntry>
+		</Row>
+	</UnitPromotions>
+
+	<Trait_FreePromotionUnitCombats>
+		<Row>
+			<TraitType>TRAIT_APT</TraitType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+			<PromotionType>PROMOTION_APT_1</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats>
+
 	<Diplomacy_Responses>
 		<Row>
 			<LeaderType>LEADER_GLADOS</LeaderType>

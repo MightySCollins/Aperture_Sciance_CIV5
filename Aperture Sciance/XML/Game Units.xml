@@ -8,23 +8,24 @@
 			<PrereqTech>TECH_MACHINERY</PrereqTech>
 			<Combat>5</Combat>
 			<RangedCombat>5</RangedCombat>
-			<Cost>30</Cost>
-			<FaithCost>65</FaithCost>
+			<Cost>25</Cost>
+			<HurryCostModifier>0.25</HurryCostModifier>
+			<FaithCost>50</FaithCost>
 			<Moves>1</Moves>
-			<Range>2</Range>
+			<Range>1</Range>
 			<CombatClass>UNITCOMBAT_ARCHER</CombatClass>
 			<Domain>DOMAIN_LAND</Domain>
 			<DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
 			<Description>TXT_KEY_UNIT_TURRET</Description>
-			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_TURRET_TEXT</Civilopedia>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_TURRET_TEXT</Civilopedia>
 			<Strategy>TXT_KEY_UNIT_TURRET_STRATEGY</Strategy>
 			<Help>TXT_KEY_UNIT_HELP_TURRET</Help>
-			<MilitarySupport>true</MilitarySupport>
+			<MilitarySupport>false</MilitarySupport>
 			<MilitaryProduction>true</MilitaryProduction>
 			<Pillage>false</Pillage>
 			<ObsoleteTech>TECH_RIFLING</ObsoleteTech>
 			<GoodyHutUpgradeUnitClass>UNITCLASS_RIFLEMAN</GoodyHutUpgradeUnitClass>
-			<AdvancedStartCost>20</AdvancedStartCost>
+			<AdvancedStartCost>15</AdvancedStartCost>
 			<XPValueAttack>3</XPValueAttack>
 			<XPValueDefense>3</XPValueDefense>
 			<UnitArtInfo>ART_DEF_UNIT_CROSSBOWMAN</UnitArtInfo>
@@ -32,9 +33,10 @@
 			<IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
 			<PortraitIndex>1</PortraitIndex>
 			<MoveRate>ARTILLERY</MoveRate>
-
+			<Mechanized>true</Mechanized>
 		</Row>
 	</Units>
+	HurryCostModifier=0
 	<Unit_FreePromotions>
 		<Row>
 			<UnitType>UNIT_TURRET</UnitType>
@@ -55,22 +57,40 @@
 			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
 		</Row>
 	</Unit_AITypes>
+
 	<Unit_Flavors>
 		<Row>
-			<UnitType>UNIT_TURRET_WARRIOR</UnitType>
+			<UnitType>UNIT_TURRET</UnitType>
 			<FlavorType>FLAVOR_RECON</FlavorType>
-			<Flavor>1</Flavor>
+			<Flavor>2</Flavor>
 		</Row>
 		<Row>
-			<UnitType>UNIT_TURRET_WARRIOR</UnitType>
+			<UnitType>UNIT_TURRET</UnitType>
 			<FlavorType>FLAVOR_OFFENSE</FlavorType>
-			<Flavor>2</Flavor>
+			<Flavor>3</Flavor>
 		</Row>
 		<Row>
-			<UnitType>UNIT_TURRET_WARRIOR</UnitType>
+			<UnitType>UNIT_TURRET</UnitType>
 			<FlavorType>FLAVOR_DEFENSE</FlavorType>
-			<Flavor>2</Flavor>
+			<Flavor>18</Flavor>
 		</Row>
 	</Unit_Flavors>
+
+	<Row>
+		<Type>TECH_MACHINERY</Type>
+		<Cost>485</Cost>
+		<Description>TXT_KEY_TECH_MACHINERY_TITLE</Description>
+		<Civilopedia>TXT_KEY_TECH_MACHINERY_DESC</Civilopedia>
+		<Help>TXT_KEY_TECH_MACHINERY_HELP</Help>
+		<Era>ERA_MEDIEVAL</Era>
+		<Trade>true</Trade>
+		<GridX>5</GridX>
+		<GridY>7</GridY>
+		<Quote>TXT_KEY_TECH_MACHINERY_QUOTE</Quote>
+		<PortraitIndex>19</PortraitIndex>
+		<IconAtlas>TECH_ATLAS_1</IconAtlas>
+		<AudioIntro>AS2D_TECH_MACHINERY</AudioIntro>
+		<AudioIntroHeader>AS2D_HEADING_TECH_MACHINERY</AudioIntroHeader>
+	</Row>
   
 </GameData>

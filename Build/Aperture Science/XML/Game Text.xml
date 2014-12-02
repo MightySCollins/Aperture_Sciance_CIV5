@@ -57,6 +57,7 @@
 		</Row>
 		<Row Tag="TXT_KEY_LEADER_GLADOS">
 			<Text>GLaDOS</Text>
+			<Gender>feminine</Gender>
 		</Row>
 		
 		<Row Tag="TXT_KEY_UNIT_TURRET">
@@ -65,7 +66,7 @@
 		<Row Tag="TXT_KEY_UNIT_HELP_TURRET">
 			<Text>The Turret is cheap but defective.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_TURRET_TEXT">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_TURRET_TEXT">
 			<Text>
 				Sentry Turrets are miniature tripod robots that can open each side of their chassis (their 'arms') horizontally in order to reveal two gatling guns.
 				The central part of the chassis holds their red eye, which emits a targeting laser. Almost all of the space within the Turret is devoted to storing the
@@ -116,7 +117,8 @@
 		</Row>
 
 		<Row Tag="TXT_KEY_PROMOTION_PEDIA_APT_1">
-			<Text>Add text</Text>
+			<Text>Finally, a way to fix all of those broekn turrets has been found, let's hope it's
+				not too late. This improves bullet storage, fixes them all up and improves there little legs</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_GLADOS_AGREE_SHORT_1">
@@ -150,7 +152,7 @@
 			<Text>Goodbye.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GLADOS_FIRSTGREETING1">
-			<Text>Cake, and grief counseling, will be available at the conclusion of the test.</Text>
+			<Text>Cake, and grief counseling, will be available at the conclusion of this meeting.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GLADOS_FIRSTGREETING2">
 			<Text>Well, you found me. Congratulations. Was it worth it?</Text>
@@ -231,6 +233,7 @@
 		<Row Tag="TXT_KEY_GLADOS_WINWAR2">
 			<Text>Thank you for participating in this Aperture Science computer-aided enrichment activity. Goodbye.</Text>
 		</Row>
+		<!-- TODO: Change text for turrets-->
 		<Row Tag="TXT_KEY_GLADOS_LOSEWAR1">
 			<Text>I have an infinite capacity for knowledge, and even I'm not sure what's going on outside. All I know is I'm the only thing standing between us and them. Well, I was.</Text>
 		</Row>

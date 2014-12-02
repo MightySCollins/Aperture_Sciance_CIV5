@@ -66,7 +66,7 @@
 		<Row Tag="TXT_KEY_UNIT_HELP_TURRET">
 			<Text>The Turret is cheap but defective.</Text>
 		</Row>
-		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_TURRET_TEXT">
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_TURRET_TEXT">
 			<Text>
 				Sentry Turrets are miniature tripod robots that can open each side of their chassis (their 'arms') horizontally in order to reveal two gatling guns.
 				The central part of the chassis holds their red eye, which emits a targeting laser. Almost all of the space within the Turret is devoted to storing the
@@ -117,7 +117,8 @@
 		</Row>
 
 		<Row Tag="TXT_KEY_PROMOTION_PEDIA_APT_1">
-			<Text>Add text</Text>
+			<Text>Finally, a way to fix all of those broekn turrets has been found, let's hope it's
+				not too late. This improves bullet storage, fixes them all up and improves there little legs</Text>
 		</Row>
 
 		<Row Tag="TXT_KEY_GLADOS_AGREE_SHORT_1">
@@ -151,7 +152,7 @@
 			<Text>Goodbye.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GLADOS_FIRSTGREETING1">
-			<Text>Cake, and grief counseling, will be available at the conclusion of the test.</Text>
+			<Text>Cake, and grief counseling, will be available at the conclusion of this meeting.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_GLADOS_FIRSTGREETING2">
 			<Text>Well, you found me. Congratulations. Was it worth it?</Text>
@@ -232,6 +233,7 @@
 		<Row Tag="TXT_KEY_GLADOS_WINWAR2">
 			<Text>Thank you for participating in this Aperture Science computer-aided enrichment activity. Goodbye.</Text>
 		</Row>
+		<!-- TODO: Change text for turrets-->
 		<Row Tag="TXT_KEY_GLADOS_LOSEWAR1">
 			<Text>I have an infinite capacity for knowledge, and even I'm not sure what's going on outside. All I know is I'm the only thing standing between us and them. Well, I was.</Text>
 		</Row>
@@ -276,6 +278,26 @@
 		</Row>
 		<Row Tag="TXT_KEY_GREAT_PERSON_RATMAN">
 			<Text>Ratman</Text>
+		</Row>
+
+		<!-- TODO: Fisnish new Machinery Text-->
+		<Row Tag="TXT_KEY_TECH_MACHINERY_DESC">
+			<Text>A machine is a device with moving parts (this is true during the pre-Electronics Age, anyway) that uses energy to perform tasks.
+				A printing press is a machine, as is a loom, a clock and a watermill. Mastery of machinery requires design and engineering skill, of course,
+				but also the ability to manufacture machine parts to precise measurements. A steam engine will leak if it's constructed poorly - that is, if
+				it doesn't explode like many turrets have done. The early Machine Age was a hugely dangerous time to work around the devices - if the fumes
+				didn't kill you then you stood a fair chance of getting scalded or blown to pieces. There was also a very high chance of the machines being
+				defective and not working at all[NEWLINE][NEWLINE]On the other hand, once a civilization began to master complex machinery, it gave them
+				unrivaled wealth and power. England went early into the Industrial Revolution, and by so doing the small island
+				nation dominated world trade for nearly three centuries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_MACHINERY_HELP">
+			<Text>Allows you to build [COLOR_POSITIVE_TEXT]Turrets[ENDCOLOR], a weak ranged unit. Also increases the movement rate of units traveling along
+				[COLOR_POSITIVE_TEXT]Roads[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_MACHINERY_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"They’re the pale spherical things that are full of bullets. Oh wait, that’s you in 5 seconds. Good luck.."[NEWLINE][TAB][TAB]
+				- GLaDOS[NEWLINE][TAB]</Text>
 		</Row>
 		
 	</Language_en_US>
