@@ -215,6 +215,11 @@
 			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
 			<Flavor>6</Flavor>
 		</Row>
+		<Row>
+			<LeaderType>LEADER_CATHERINE</LeaderType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
 	</Leader_Flavors>
 
 	<Leader_Traits>

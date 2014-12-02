@@ -6,6 +6,7 @@
 			<Class>UNITCLASS_CROSSBOWMAN</Class>
 			<Type>UNIT_TURRET</Type>
 			<PrereqTech>TECH_MACHINERY</PrereqTech>
+			<GoldMaintenance>0</GoldMaintenance>
 			<Combat>5</Combat>
 			<RangedCombat>5</RangedCombat>
 			<Cost>25</Cost>

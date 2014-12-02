@@ -5,10 +5,18 @@
     <ProjectGuid>{ddeaaa78-7492-446a-872d-441ca844409a}</ProjectGuid>
     <Name>Aperture Science</Name>
     <Guid>b3279720-4870-44fc-8b07-0ea5fdcc7e9f</Guid>
-    <ModVersion>1</ModVersion>
-    <Stability>Experimental</Stability>
+    <ModVersion>2</ModVersion>
+    <Stability>Alpha</Stability>
     <Teaser>Run the world like Cave Johnson wanted to with the help of GLaDOS and an army of Turrets</Teaser>
-    <Description>Run the world like Cave Johnson wanted to and work as GLaDOS to take over the world.</Description>
+    <Description>Run the world like Cave Johnson wanted to and work as GLaDOS to take over the world.
+
+This mods adds all new Portal sounds (Owned by Valve)
+The GLaDOS leader (Some code from other portal mod)
+The Apature civilisation
+Turrets (Textures and new icon soon)
+Drydock (More sea production double sciance at a cost)
+
+Ill add more soon</Description>
     <Authors>Sam (SCollins)</Authors>
     <SpecialThanks>Alex</SpecialThanks>
     <AffectsSavedGames>true</AffectsSavedGames>
@@ -65,6 +73,7 @@
     </ModActions>
     <HideSetupGame>false</HideSetupGame>
     <ReloadAudioSystem>true</ReloadAudioSystem>
+    <Homepage>http://https://github.com/MightySCollins/Aperture_Sciance_CIV5</Homepage>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>

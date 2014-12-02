@@ -6,7 +6,7 @@
             <Type>BUILDING_APT_DOCK</Type>
             <BuildingClass>BUILDINGCLASS_OBSERVATORY</BuildingClass>
             <Cost>300</Cost>
-            <GoldMaintenance>8</GoldMaintenance>
+            <GoldMaintenance>6</GoldMaintenance>
             <PrereqTech>TECH_SCIENTIFIC_THEORY</PrereqTech>
             <Description>TXT_KEY_BUILDING_DOCK</Description>
             <Civilopedia>TXT_KEY_CIV5_BUILDINGS_DOCK_TEXT</Civilopedia>
@@ -36,4 +36,11 @@
         </Row>
     </Civilization_BuildingClassOverrides>
 
+    <Building_DomainProductionModifiers>
+        <Row>
+            <BuildingType>BUILDING_APT_DOCK</BuildingType>
+            <DomainType>DOMAIN_SEA</DomainType>
+            <Modifier>20</Modifier>
+        </Row>
+    </Building_DomainProductionModifiers>
 </GameData>

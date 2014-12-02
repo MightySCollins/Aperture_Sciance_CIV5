@@ -78,10 +78,8 @@
 			<CivilizationType>CIVILIZATION_APT</CivilizationType>
 			<UnitClassType>UNITCLASS_CROSSBOWMAN</UnitClassType>
 			<UnitType>UNIT_TURRET</UnitType>
-		</Row>		
-		
+		</Row>
 	</Civilization_UnitClassOverrides>
-	
 	
 	<Civilization_FreeBuildingClasses>
 		<Row>
@@ -148,6 +146,14 @@
 		<Row>
 			<UnitType>UNIT_SCIENTIST</UnitType>
 			<UniqueName>TXT_KEY_GREAT_PERSON_CAVE_JOHNSON</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SCIENTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CORE_INTELLIGENCE</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SCIENTIST</UnitType>
+			<UniqueName>TXT_KEY_GREAT_PERSON_CORE_INTELLIGENCE</UniqueName>
 		</Row>
 		<Row>
 			<UnitType>UNIT_ARTIST</UnitType>

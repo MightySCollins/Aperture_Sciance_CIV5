@@ -279,6 +279,29 @@
 		<Row Tag="TXT_KEY_GREAT_PERSON_RATMAN">
 			<Text>Ratman</Text>
 		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CORE_INTELLIGENCE">
+			<Text>Intelligence Core</Text>
+		</Row>
+
+		<!-- TODO: Finish new Machinery Text and add dry dock-->
+		<Row Tag="TXT_KEY_TECH_MACHINERY_DESC">
+			<Text>A machine is a device with moving parts (this is true during the pre-Electronics Age, anyway) that uses energy to perform tasks.
+				A printing press is a machine, as is a loom, a clock and a watermill. Mastery of machinery requires design and engineering skill, of course,
+				but also the ability to manufacture machine parts to precise measurements. A steam engine will leak if it's constructed poorly - that is, if
+				it doesn't explode like many turrets have done. The early Machine Age was a hugely dangerous time to work around the devices - if the fumes
+				didn't kill you then you stood a fair chance of getting scalded or blown to pieces. There was also a very high chance of the machines being
+				defective and not working at all[NEWLINE][NEWLINE]On the other hand, once a civilization began to master complex machinery, it gave them
+				unrivaled wealth and power. England went early into the Industrial Revolution, and by so doing the small island
+				nation dominated world trade for nearly three centuries.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_MACHINERY_HELP">
+			<Text>Allows you to build [COLOR_POSITIVE_TEXT]Turrets[ENDCOLOR], a weak ranged unit. Also increases the movement rate of units traveling along
+				[COLOR_POSITIVE_TEXT]Roads[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_MACHINERY_QUOTE">
+			<Text>[NEWLINE][TAB][TAB]"They’re the pale spherical things that are full of bullets. Oh wait, that’s you in 5 seconds. Good luck.."[NEWLINE][TAB][TAB]
+				- GLaDOS[NEWLINE][TAB]</Text>
+		</Row>
 		
 	</Language_en_US>
 </GameData>

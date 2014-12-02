@@ -279,8 +279,11 @@
 		<Row Tag="TXT_KEY_GREAT_PERSON_RATMAN">
 			<Text>Ratman</Text>
 		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_CORE_INTELLIGENCE">
+			<Text>Intelligence Core</Text>
+		</Row>
 
-		<!-- TODO: Fisnish new Machinery Text-->
+		<!-- TODO: Finish new Machinery Text and add dry dock-->
 		<Row Tag="TXT_KEY_TECH_MACHINERY_DESC">
 			<Text>A machine is a device with moving parts (this is true during the pre-Electronics Age, anyway) that uses energy to perform tasks.
 				A printing press is a machine, as is a loom, a clock and a watermill. Mastery of machinery requires design and engineering skill, of course,
